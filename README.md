@@ -6,7 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Horse Racing </title>
-  <style>
+</head>
+<body>
+      <style>
     body{
     background-color: #596E5C;
   }
@@ -94,8 +96,6 @@
    
   }
   </style>
-</head>
-<body>
     <section id="header">
   <h1> Horse Racing </h1>
     </section>
